@@ -23,6 +23,8 @@ description: >-
   its consumer website and broker program.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tri-pointe-homes
   - type: Website
     url: https://www.tripointehomes.com/
   - type: Investors
