@@ -23,6 +23,8 @@ description: >-
   its consumer website and broker program.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tri-pointe-homes-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/tri-pointe-homes
   - type: Website
