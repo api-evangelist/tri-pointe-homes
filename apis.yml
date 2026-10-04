@@ -5,7 +5,7 @@ tags:
   - Construction
   - Homebuilder
   - Mortgage
-  - Real-Estate
+  - Real Estate
   - Residential
 tags_raw:
   - Construction
@@ -13,6 +13,7 @@ tags_raw:
   - Mortgage
   - Real Estate
   - Residential
+  - Real-Estate
 type: Index
 deliveryModel:
   model: unknown
