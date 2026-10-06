@@ -41,7 +41,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tri-pointe
 access: 3rd-Party
 kind: company
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-10-06'
 description: >-
   Tri Pointe Homes is one of the largest homebuilders in the United States,
   designing and constructing premium single-family detached and attached
@@ -52,6 +52,8 @@ description: >-
   its consumer website and broker program.
 apis: []
 common:
+  - url: https://www.tripointehomes.com/blog
+    type: Blog
   - type: DomainSecurity
     url: security/tri-pointe-homes-domain-security.yml
   - type: LinkedIn
